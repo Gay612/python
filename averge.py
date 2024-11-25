@@ -1,0 +1,14 @@
+tamil=int(input('enter a number:'))
+english=int(input('enter a number:'))
+maths=int(input('enter a number:'))
+science=int(input('enter a number:'))
+social=int(input('enter a number:'))
+total=tamil+english+maths+science+social
+averge=(total/500)*100
+print('tamil=',tamil)
+print('english=',english)
+print('maths=',maths)
+print('science=',science)
+print('social=',social)
+print('total=',total)
+print('averge=',averge)
